@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: LambdaFunction
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, file-watch, gradle, java, junit, logback, readme, shade, yaml]
